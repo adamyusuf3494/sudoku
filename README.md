@@ -1,4 +1,4 @@
-Sudoku Board Game
+# Sudoku Board Game
 
 This project is to developed a sudoku desktop board game.
 This board game will use python and pygame library for GUI
